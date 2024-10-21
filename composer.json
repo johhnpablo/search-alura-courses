@@ -1,0 +1,14 @@
+{
+    "name": "johhnpablo/search-alura-courses",
+    "description": "Project that seeks PHP courses at Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "johhnpablo",
+            "email": "johnpablo.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
