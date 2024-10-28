@@ -43,5 +43,6 @@
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
-    }
+    },
+    "bin": ["src/SearchCourses.php"]
 }
